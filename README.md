@@ -1,17 +1,16 @@
 # 🌿 totocm00's GitHub
 <hr style="border: 2px solid black;">
 
-🛡
 > 안녕하세요!🚗  
 > 꾸준하게 성장하는 스마트팩토리 교육생 입니다🏭  
 > 배운 것들을 천천히, 단단하게 쌓아가고 있어요.📦   
 
 ## 🌊 About Me
 
-- 🧠 Intel DX 스마트팩토리 과정 수강 중 (2025)
-- ⚙️ 자동제어 · 센서 · 공압 · PLC 제어 학습
-- 🧩 알고리즘 풀이 & Python 실습 중
-- 🚀 GitHub 커밋 루틴 & 포트폴리오 정리 연습 중
+- 🧠 Intel DX 스마트팩토리 과정 수강 중 (2025)  
+- ⚙️ 자동제어 · 센서 · 공압 · 아두이노 · PLC 제어 학습 · GX2  
+- 🧩 알고리즘 풀이 & Python 실습 중  
+- 🚀 GitHub 커밋 루틴 & 포트폴리오 정리 연습 중  
 
 ---
 
@@ -26,7 +25,6 @@
 ![공압설비](https://img.shields.io/badge/공압설비-40BFC1?style=for-the-badge&logo=leaflet&logoColor=white)
 ![전기기능사](https://img.shields.io/badge/전기기능사-30A9DE?style=for-the-badge&logo=electrical-engineering&logoColor=white)
 ![SQLD](https://img.shields.io/badge/SQLD-70C1B3?style=for-the-badge&logo=mysql&logoColor=white)
-![운전면허](https://img.shields.io/badge/운전면허-57C5B6?style=for-the-badge&logo=car&logoColor=white)
 
 ---
 
@@ -45,11 +43,7 @@
 ---
 
 ## 🌼 Contact
-🛡
 > 궁금한 점이 있다면 언제든지 DM 주세요!  
-> **하루하루, 여름 햇살처럼 꾸준히 성장 중입니다.**  
-
-
 
 
 <!--

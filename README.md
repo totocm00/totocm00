@@ -1,10 +1,11 @@
 # 🌿 totocm00's GitHub
 <hr style="border: 2px solid black;">
 
-[Tech Stack](https://github.com/totocm00#%EF%B8%8F-tech-stack)  
-[Record Hub](https://github.com/totocm00#-record-hub)  
-[AI&Vision Resoures](https://github.com/totocm00#-ai--vision-resources)
-[Study - git](https://github.com/totocm00#-study---git) [Project Hub](https://github.com/totocm00#-project-hub)
+⚙️ [Tech Stack](https://github.com/totocm00#%EF%B8%8F-tech-stack)  
+🧾 [Record Hub](https://github.com/totocm00#-record-hub)  
+🌐 [AI&Vision Resoures](https://github.com/totocm00#-ai--vision-resources)  
+🔍 [Study - git](https://github.com/totocm00#-study---git)  
+🧭 [Project Hub](https://github.com/totocm00#-project-hub)  
 
 ---
 
@@ -89,7 +90,7 @@
 ![Factory_IO](https://img.shields.io/badge/Factory_IO-27AE60?style=for-the-badge&logo=unity&logoColor=white)
 ![OPC_UA](https://img.shields.io/badge/OPC_UA-27AE60?style=for-the-badge&logo=modbus&logoColor=white)
   
-[🔼](https://github.com/totocm00#-totocm00s-github)
+**[🆙](https://github.com/totocm00#-totocm00s-github)**
   
 ---
 
@@ -110,7 +111,7 @@
 - 🔧 PLC : [PLC-OPC-RoboDK](https://youtu.be/OVe_I2nfBBo)  
    
   
-[🔼](https://github.com/totocm00#-totocm00s-github)
+**[🆙](https://github.com/totocm00#-totocm00s-github)**
 
 
 ## 🎯 Certifications (On Progress)
@@ -135,8 +136,9 @@
 - 🐍 [python_study](https://github.com/totocm00/python_study) : 기초 문법 학습
 - 🌐 [AI_study](https://github.com/totocm00/study_AI) : AI- 트레이닝 저장소
 - 🦾 [Robot_study](https://github.com/totocm00/study_AI) : Robot-test / Nuromeka Indy7 모델
-
-[🔼](https://github.com/totocm00#-totocm00s-github)
+  
+***[🆙](https://github.com/totocm00#-totocm00s-github)***
+  
 ---
 
 
@@ -182,7 +184,7 @@
 - [TensorRT (NVIDIA)](https://developer.nvidia.com/tensorrt)  
 - [ONNX Runtime](https://github.com/microsoft/onnxruntime)
 
-[🔼](https://github.com/totocm00#-totocm00s-github)
+**[🆙](https://github.com/totocm00#-totocm00s-github)**
 ---
 
 
@@ -192,7 +194,7 @@
 
 ---
 
-🔼 [Home-up](https://github.com/totocm00#-totocm00s-github)
+**[🆙](https://github.com/totocm00#-totocm00s-github)**
 
 ---
 

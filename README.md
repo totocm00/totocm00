@@ -45,30 +45,65 @@
 
 ---
 
-## 🏷️ Tech Stack  
+## ⚙️ Tech Stack
+
+---
 
 ### 💻 Language
 ![Python](https://img.shields.io/badge/Python-4A90E2?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-4A90E2?style=for-the-badge&logo=c&logoColor=white)
-![SQLD](https://img.shields.io/badge/SQLD-4A90E2?style=for-the-badge&logo=mysql&logoColor=white)  
-<br>
+![SQL](https://img.shields.io/badge/SQL-4A90E2?style=for-the-badge&logo=mysql&logoColor=white)
+
+![JSON](https://img.shields.io/badge/JSON-4A90E2?style=for-the-badge&logo=json&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-4A90E2?style=for-the-badge&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-4A90E2?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
+
+### 🧩 Collaboration & Tools
+![Git](https://img.shields.io/badge/Git-6C63FF?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-6C63FF?style=for-the-badge&logo=notion&logoColor=white)
+
+![VSCode](https://img.shields.io/badge/VS_Code-6C63FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-6C63FF?style=for-the-badge&logo=obsidian&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-6C63FF?style=for-the-badge&logo=canva&logoColor=white)
+
+![PowerPoint](https://img.shields.io/badge/PowerPoint-6C63FF?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS_Studio-6C63FF?style=for-the-badge&logo=obsstudio&logoColor=white)
+
+---
 
 ### ⚙️ Automation / Control
-![PLC](https://img.shields.io/badge/Mitsubishi_PLC-00BFA6?style=for-the-badge&logo=codeforces&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00BFA6?style=for-the-badge&logo=arduino&logoColor=white)
-![HMI](https://img.shields.io/badge/HMI--Interface-00BFA6?style=for-the-badge&logo=windows-terminal&logoColor=white)  
-<br>
+![Mitsubishi PLC](https://img.shields.io/badge/Mitsubishi_PLC-00BFA6?style=for-the-badge&logo=codeforces&logoColor=white)
+![GX Works2](https://img.shields.io/badge/GX_Works2-00BFA6?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Siemens PLC](https://img.shields.io/badge/Siemens_PLC-00BFA6?style=for-the-badge&logo=siemens&logoColor=white)
 
-### 🧠 AI / Robot
-![AI-DeepLearning](https://img.shields.io/badge/AI--DeepLearning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Robot-Indy7](https://img.shields.io/badge/Robot--Indy7-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white)
-![Vision-AI](https://img.shields.io/badge/AI--Vision--System-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white)  
-<br>
+![Arduino](https://img.shields.io/badge/Arduino-00BFA6?style=for-the-badge&logo=arduino&logoColor=white)
+![HMI–Proface](https://img.shields.io/badge/HMI–Proface-00BFA6?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![공압실습](https://img.shields.io/badge/공압실습-00BFA6?style=for-the-badge&logo=airplayaudio&logoColor=white)
+
+---
+
+### 🧠 AI / Vision / Robot
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-FF6B6B?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FF6B6B?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6B6B?style=for-the-badge&logo=plotly&logoColor=white)
+
+![OpenVINO](https://img.shields.io/badge/OpenVINO-FF6B6B?style=for-the-badge&logo=intel&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6B6B?style=for-the-badge&logo=roboflow&logoColor=white)
+![NeuroMeka Indy7](https://img.shields.io/badge/NeuroMeka_Indy7-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white)
+
+---
 
 ### 🌐 Digital Twin / Simulation
 ![RoboDK](https://img.shields.io/badge/RoboDK-27AE60?style=for-the-badge&logo=ros&logoColor=white)
 ![FactoryIO](https://img.shields.io/badge/Factory_IO-27AE60?style=for-the-badge&logo=unity&logoColor=white)
-
+![OPC](https://img.shields.io/badge/OPC_UA-27AE60?style=for-the-badge&logo=modbus&logoColor=white)
 
 
 ---

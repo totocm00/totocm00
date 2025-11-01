@@ -4,8 +4,8 @@
 **Quick Nav:**  
 ⚙️ [Tech Stack](https://github.com/totocm00#%EF%B8%8F-tech-stack) · 🧾 [Record Hub](https://github.com/totocm00#-record-hub) · 🔍 [Study - git](https://github.com/totocm00#-study---git) · 🧭 [Project Hub](https://github.com/totocm00#-project-hub)  
 🌐 [AI&Vision Resoures](https://github.com/totocm00#-ai--vision-resources)  
-🏷️ [Labeling Tools by Detection Type](https://github.com/totocm00/totocm00/edit/main/README.md#%EF%B8%8F-labeling-tools-by-detection-type)   
-🧰 [Dataset Management & Visualization Tools](https://github.com/totocm00/totocm00/edit/main/README.md#-dataset-management--visualization-tools) 
+🏷️ [Labeling Tools by Detection Type](https://github.com/totocm00#%EF%B8%8F-labeling-tools-by-detection-type)   
+🧰 [Dataset Management & Visualization Tools](https://github.com/totocm00#-dataset-management--visualization-tools) 
 
 ---
 
@@ -33,7 +33,7 @@
 
 ## ⚙️ Tech Stack
 <details>
-  <summary><b> ▶️ Show Details </b></summary>
+  <summary><h5> ▶️ Show Details </h5></summary>
 
 ### 💻 Language
 ![Python](https://img.shields.io/badge/Python-4A90E2?style=for-the-badge&logo=python&logoColor=white)
@@ -112,8 +112,10 @@
 <br>
 <br>
 
+### 🧾 Record Hub
+
 <details>
-  <summary><b> 🔗 Record Hub </b></summary>
+  <summary><h5> ▶️ Show Details </h5></summary>
 
   <br>
 
@@ -128,9 +130,13 @@
 </details>
 
 <br>
+<br>
+<br>
+
+### 🧭 Project Hub
 
 <details>
-  <summary><b> 🧭 Project Hub </b></summary>
+  <summary><h5> ▶️ Show Details </h5></summary>
 
   <br>
   
@@ -325,7 +331,6 @@
 ---
 
 <br>
-<br>
 
 ### 🧰 Dataset Management & Visualization Tools
 
@@ -402,6 +407,8 @@
 
 ---
 
+<br>
+
 
 ## 📊 GitHub Stats ⭐🕒🔀
 
@@ -409,14 +416,18 @@
 
 <sub>💡 Private 포함 잔디 활성화</sub>
 
----
+<br>
 
 ***<p align="right"><a href="https://github.com/totocm00#-totocm00s-github">⬆️ Back to Top</a></p>***
 
 ---
 
+<br>
+
 ## 🌼 Contact
 > 궁금한 점이 있다면 언제든지 DM 주세요!  
+
+<br>
 
 
 <!--

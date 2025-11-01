@@ -9,7 +9,7 @@
 - 🌿 Intel DX 스마트팩토리 과정 수강 중 (2025)  
 - ⚙️ 자동제어 · 센서 · 공압 · 아두이노 · PLC 제어 학습 · GX2  
 - 🔧 PLC Sequence ladder Creation(GX Works2)
-- 📊 AI Strudy & Projects(1 Week, 1 Project)
+- 📊 AI Study & Projects(1 Week, 1 Project)
 - 🦾 Robot Teaching & Project(PLC - Vision - Robot)
 - 🚀 GitHub & Notion
 
@@ -33,7 +33,8 @@
 
   >**자격증은 따면 좋지만 따지 않아도 지식을 쌓는데 도움이 된다!**  
   >`합격하지 못 하였어도 내 생각이 풍부해졌다 생각하기!`  
-  >`목표는 삶의 원동력과 내가 방황하지 않도록, 어려워도 이겨낼 수 있는 나를 만드는 스위치`  
+  >`목표는 삶의 원동력!`  
+  >`내가 방황하지 않도록, 어려워도 이겨낼 수 있는 나를 만드는 스위치`  
 
 - 정보처리기사 (56점 → 2026년 1월 재도전 준비 중)
 - SQLD (응시 예정, 2026년 초 목표)
@@ -49,24 +50,87 @@
 ### 💻 Language
 ![Python](https://img.shields.io/badge/Python-88CCF1?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-82C4C3?style=for-the-badge&logo=c&logoColor=white)
-![SQLD](https://img.shields.io/badge/SQLD-70C1B3?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLD](https://img.shields.io/badge/SQLD-70C1B3?style=for-the-badge&logo=mysql&logoColor=white)  
+<br>
 
 ### 🧩 Collaboration & Tools
 ![Git](https://img.shields.io/badge/Git-6BCB77?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-6C63FF?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-8E7CC3?style=for-the-badge&logo=obsidian&logoColor=white)  
+<br>
 
 ### ⚙️ Automation / Control
 ![PLC](https://img.shields.io/badge/Mitsubishi_PLC-4DD091?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00BFA6?style=for-the-badge&logo=arduino&logoColor=white)
-![공압설비](https://img.shields.io/badge/공압설비-40BFC1?style=for-the-badge&logo=leaflet&logoColor=white)
+![공압설비](https://img.shields.io/badge/공압설비-40BFC1?style=for-the-badge&logo=leaflet&logoColor=white)  
 ![전기기능사](https://img.shields.io/badge/전기기능사-30A9DE?style=for-the-badge&logo=electrical-engineering&logoColor=white)
+![HMI](https://img.shields.io/badge/HMI--Interface-1ABC9C?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![OPC](https://img.shields.io/badge/OPC--Communication-16A085?style=for-the-badge&logo=proxmox&logoColor=white)  
+<br>
 
 ### 🧠 AI / Robot
 ![AI-DeepLearning](https://img.shields.io/badge/AI--DeepLearning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![AI-MachineLearning](https://img.shields.io/badge/AI--MachineLearning-FECA57?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Dataset-Creation](https://img.shields.io/badge/Dataset_Creation-FF9F43?style=for-the-badge&logo=google-colab&logoColor=white)
+![Dataset-Creation](https://img.shields.io/badge/Dataset_Creation-FF9F43?style=for-the-badge&logo=google-colab&logoColor=white)  
 ![DeepLearning-ModelDev](https://img.shields.io/badge/DeepLearning_Model--Dev-FF6B81?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Robot-Indy7](https://img.shields.io/badge/Robot--Indy7-48C9B0?style=for-the-badge&logo=robotframework&logoColor=white)
+![Vision-AI](https://img.shields.io/badge/AI--Vision--System-48C9B0?style=for-the-badge&logo=opencv&logoColor=white)  
+<br>
+
+### 🎨 Design / Production
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![OBS](https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)  
+<br>
+
+### 🌐 Digital Twin / Simulation
+![RoboDK](https://img.shields.io/badge/RoboDK-2ECC71?style=for-the-badge&logo=ros&logoColor=white)
+![FactoryIO](https://img.shields.io/badge/Factory_IO-27AE60?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+## 🌐 AI & Vision Resources
+
+### 🧠 Deep Learning Frameworks
+- [TensorFlow Keras API](https://www.tensorflow.org/api_docs/python/tf/keras)  
+- [PyTorch Docs](https://pytorch.org/docs/stable/index.html)  
+- [OpenVINO GitHub](https://github.com/openvinotoolkit/openvino)  
+- [OpenCV GitHub](https://github.com/opencv/opencv)  
+- [YOLOv5 GitHub (Ultralytics)](https://github.com/ultralytics/yolov5)  
+<br>
+
+### 📊 Dataset & Labeling Platforms
+- [Kaggle](https://www.kaggle.com/) – 데이터셋, 경진대회, 커뮤니티  
+- [AI Hub (한국)](https://www.aihub.or.kr/) – 한국어 중심 공공 데이터셋  
+- [Hugging Face](https://huggingface.co/datasets) – 다양한 딥러닝 데이터셋 및 모델  
+- [Roboflow](https://roboflow.com/) – 데이터 업로드, 라벨링, 모델 학습  
+<br>
+
+### 🎯 Labeling Tools by Detection Type
+#### 🧩 Object Detection / Segmentation
+- [LabelImg](https://github.com/heartexlabs/labelImg) – 바운딩박스 기반 Object Detection  
+- [Labelme](https://github.com/wkentaro/labelme) – 세그멘테이션, 폴리곤 마스크 지원  
+- [CVAT (Intel)](https://github.com/opencv/cvat) – 기업용 대규모 라벨링 툴 (OpenVINO와 호환)  
+<br>
+
+#### 🧾 OCR / Text Detection
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) – 텍스트 인식용  
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) – 다국어 텍스트 인식  
+- [Label Studio](https://github.com/heartexlabs/label-studio) – OCR/Classification 통합형 라벨링  
+<br>
+
+#### 🧍 Pose / Keypoint / Tracking
+- [COCO Annotator](https://github.com/jsbroks/coco-annotator) – Keypoint 기반 포즈 라벨링  
+- [Supervisely](https://supervise.ly/) – 3D/Keypoint/Object Tracking 지원  
+- [VIA (VGG Image Annotator)](https://www.robots.ox.ac.uk/~vgg/software/via/) – 간단한 키포인트 라벨링  
+<br>
+
+### 🧰 Vision Deployment & Optimization
+- [OpenVINO Toolkit](https://github.com/openvinotoolkit/openvino)  
+- [TensorRT (NVIDIA)](https://developer.nvidia.com/tensorrt)  
+- [ONNX Runtime](https://github.com/microsoft/onnxruntime)
+
+
 
 ---
 
@@ -80,7 +144,7 @@
 
 ## 📊 GitHub Stats ⭐🕒🔀
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=totocm00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=totocm00&theme=dark&border_radius=5&locale=ko)](https://git.io/streak-stats)
 
 ---
 

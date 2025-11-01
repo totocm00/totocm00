@@ -45,47 +45,48 @@
 
 ---
 
-## 🏷️ Tech Stack
+## 🏷️ Tech Stack  
 
-### 💻 Language
-![Python](https://img.shields.io/badge/Python-88CCF1?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-82C4C3?style=for-the-badge&logo=c&logoColor=white)
-![SQLD](https://img.shields.io/badge/SQLD-70C1B3?style=for-the-badge&logo=mysql&logoColor=white)  
+### 💻 Language  
+![Python](https://img.shields.io/badge/Python-00BFA6?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-6C63FF?style=for-the-badge&logo=c&logoColor=white)
+![SQLD](https://img.shields.io/badge/SQLD-88CCF1?style=for-the-badge&logo=mysql&logoColor=white)  
 <br>
 
-### 🧩 Collaboration & Tools
-![Git](https://img.shields.io/badge/Git-6BCB77?style=for-the-badge&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-6C63FF?style=for-the-badge&logo=notion&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-8E7CC3?style=for-the-badge&logo=obsidian&logoColor=white)  
+### 🧩 Collaboration & Tools  
+![Git](https://img.shields.io/badge/Git-6C63FF?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-00BFA6?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-88CCF1?style=for-the-badge&logo=obsidian&logoColor=white)  
 <br>
 
-### ⚙️ Automation / Control
-![PLC](https://img.shields.io/badge/Mitsubishi_PLC-4DD091?style=for-the-badge&logo=codeforces&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00BFA6?style=for-the-badge&logo=arduino&logoColor=white)
-![공압설비](https://img.shields.io/badge/공압설비-40BFC1?style=for-the-badge&logo=leaflet&logoColor=white)  
-![전기기능사](https://img.shields.io/badge/전기기능사-30A9DE?style=for-the-badge&logo=electrical-engineering&logoColor=white)
-![HMI](https://img.shields.io/badge/HMI--Interface-1ABC9C?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![OPC](https://img.shields.io/badge/OPC--Communication-16A085?style=for-the-badge&logo=proxmox&logoColor=white)  
+### ⚙️ Automation / Control  
+![PLC](https://img.shields.io/badge/Mitsubishi_PLC-00BFA6?style=for-the-badge&logo=codeforces&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-6C63FF?style=for-the-badge&logo=arduino&logoColor=white)
+![공압설비](https://img.shields.io/badge/공압설비-88CCF1?style=for-the-badge&logo=leaflet&logoColor=white)  
+![전기기능사](https://img.shields.io/badge/전기기능사-00BFA6?style=for-the-badge&logo=electrical-engineering&logoColor=white)
+![HMI](https://img.shields.io/badge/HMI--Interface-6C63FF?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![OPC](https://img.shields.io/badge/OPC--Communication-88CCF1?style=for-the-badge&logo=proxmox&logoColor=white)  
 <br>
 
-### 🧠 AI / Robot
-![AI-DeepLearning](https://img.shields.io/badge/AI--DeepLearning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AI-MachineLearning](https://img.shields.io/badge/AI--MachineLearning-FECA57?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Dataset-Creation](https://img.shields.io/badge/Dataset_Creation-FF9F43?style=for-the-badge&logo=google-colab&logoColor=white)  
-![DeepLearning-ModelDev](https://img.shields.io/badge/DeepLearning_Model--Dev-FF6B81?style=for-the-badge&logo=pytorch&logoColor=white)
-![Robot-Indy7](https://img.shields.io/badge/Robot--Indy7-48C9B0?style=for-the-badge&logo=robotframework&logoColor=white)
-![Vision-AI](https://img.shields.io/badge/AI--Vision--System-48C9B0?style=for-the-badge&logo=opencv&logoColor=white)  
+### 🧠 AI / Robot  
+![AI-DeepLearning](https://img.shields.io/badge/AI--DeepLearning-6C63FF?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AI-MachineLearning](https://img.shields.io/badge/AI--MachineLearning-00BFA6?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Dataset-Creation](https://img.shields.io/badge/Dataset_Creation-88CCF1?style=for-the-badge&logo=google-colab&logoColor=white)  
+![DeepLearning-ModelDev](https://img.shields.io/badge/DeepLearning_Model--Dev-6C63FF?style=for-the-badge&logo=pytorch&logoColor=white)
+![Robot-Indy7](https://img.shields.io/badge/Robot--Indy7-00BFA6?style=for-the-badge&logo=robotframework&logoColor=white)
+![Vision-AI](https://img.shields.io/badge/AI--Vision--System-88CCF1?style=for-the-badge&logo=opencv&logoColor=white)  
 <br>
 
-### 🎨 Design / Production
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![OBS](https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)  
+### 🎨 Design / Production  
+![Canva](https://img.shields.io/badge/Canva-00BFA6?style=for-the-badge&logo=canva&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-6C63FF?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![OBS](https://img.shields.io/badge/OBS-88CCF1?style=for-the-badge&logo=obsstudio&logoColor=white)  
 <br>
 
-### 🌐 Digital Twin / Simulation
-![RoboDK](https://img.shields.io/badge/RoboDK-2ECC71?style=for-the-badge&logo=ros&logoColor=white)
-![FactoryIO](https://img.shields.io/badge/Factory_IO-27AE60?style=for-the-badge&logo=unity&logoColor=white)
+### 🌐 Digital Twin / Simulation  
+![RoboDK](https://img.shields.io/badge/RoboDK-00BFA6?style=for-the-badge&logo=ros&logoColor=white)
+![FactoryIO](https://img.shields.io/badge/Factory_IO-6C63FF?style=for-the-badge&logo=unity&logoColor=white)
+
 
 ---
 

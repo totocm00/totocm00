@@ -58,8 +58,6 @@
 ![Linux](https://img.shields.io/badge/Linux-4A90E2?style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-4A90E2?style=for-the-badge&logo=ubuntu&logoColor=white)
 
----
-
 ### 🧩 Collaboration & Tools
 ![Git](https://img.shields.io/badge/Git-6C63FF?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white)
@@ -72,18 +70,17 @@
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-6C63FF?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-6C63FF?style=for-the-badge&logo=obsstudio&logoColor=white)
 
----
-
 ### ⚙️ Automation / Control
 ![Mitsubishi PLC](https://img.shields.io/badge/Mitsubishi_PLC-00BFA6?style=for-the-badge&logo=codeforces&logoColor=white)
 ![GX Works2](https://img.shields.io/badge/GX_Works2-00BFA6?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Siemens PLC](https://img.shields.io/badge/Siemens_PLC-00BFA6?style=for-the-badge&logo=siemens&logoColor=white)
 
-![Arduino](https://img.shields.io/badge/Arduino-00BFA6?style=for-the-badge&logo=arduino&logoColor=white)
+![Siemens PLC](https://img.shields.io/badge/Siemens_PLC-00BFA6?style=for-the-badge&logo=siemens&logoColor=white)
+![TIA Portal v5.1](https://img.shields.io/badge/TIA_Portal_v5.1-00BFA6?style=for-the-badge&logo=siemens&logoColor=white)
+
 ![HMI–Proface](https://img.shields.io/badge/HMI–Proface-00BFA6?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00BFA6?style=for-the-badge&logo=arduino&logoColor=white)
 ![공압실습](https://img.shields.io/badge/공압실습-00BFA6?style=for-the-badge&logo=airplayaudio&logoColor=white)
 
----
 
 ### 🧠 AI / Vision / Robot
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -97,8 +94,6 @@
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-FF6B6B?style=for-the-badge&logo=intel&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6B6B?style=for-the-badge&logo=roboflow&logoColor=white)
 ![NeuroMeka Indy7](https://img.shields.io/badge/NeuroMeka_Indy7-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white)
-
----
 
 ### 🌐 Digital Twin / Simulation
 ![RoboDK](https://img.shields.io/badge/RoboDK-27AE60?style=for-the-badge&logo=ros&logoColor=white)

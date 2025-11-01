@@ -177,8 +177,10 @@
 
 <br>
 
+### 🌿 Study - git
+
 <details>
-  <summary><b> 🌿 Study - git </b></summary>
+  <summary><h5> ▶️ Show Details </h5></summary>  
   
   <br>
 

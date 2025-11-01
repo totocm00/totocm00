@@ -1,6 +1,13 @@
 # 🌿 totocm00's GitHub
 <hr style="border: 2px solid black;">
 
+[Tech Stack](https://github.com/totocm00#%EF%B8%8F-tech-stack)  
+[Record Hub](https://github.com/totocm00#-record-hub)  
+[AI&Vision Resoures](https://github.com/totocm00#-ai--vision-resources)
+[Study - git](https://github.com/totocm00#-study---git) [Project Hub](https://github.com/totocm00#-project-hub)
+
+---
+
 > 안녕하세요!🚗  
 > 꾸준하게 성장하는 스마트팩토리 AI 교육생 입니다🏭  
 > 배운 것들을 천천히, 단단하게 쌓아가고 있어요.📦
@@ -81,7 +88,9 @@
 
 ![Factory_IO](https://img.shields.io/badge/Factory_IO-27AE60?style=for-the-badge&logo=unity&logoColor=white)
 ![OPC_UA](https://img.shields.io/badge/OPC_UA-27AE60?style=for-the-badge&logo=modbus&logoColor=white)
-
+  
+[🔼](https://github.com/totocm00#-totocm00s-github)
+  
 ---
 
 ## 🔗 Record Hub
@@ -98,7 +107,11 @@
 - 🌿 AI Projects 2: [조립체 방향 정렬](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link)
 - 🌳 AI Projects 3: [PCB 납땜 검사](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link)
 - 🦾 Robot : [PLC-Vision-Robot](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link)
-- 🔧 PLC : [PLC-OPC-RoboDK](https://youtu.be/OVe_I2nfBBo)
+- 🔧 PLC : [PLC-OPC-RoboDK](https://youtu.be/OVe_I2nfBBo)  
+   
+  
+[🔼](https://github.com/totocm00#-totocm00s-github)
+
 
 ## 🎯 Certifications (On Progress)
 
@@ -123,7 +136,7 @@
 - 🌐 [AI_study](https://github.com/totocm00/study_AI) : AI- 트레이닝 저장소
 - 🦾 [Robot_study](https://github.com/totocm00/study_AI) : Robot-test / Nuromeka Indy7 모델
 
-
+[🔼](https://github.com/totocm00#-totocm00s-github)
 ---
 
 
@@ -169,13 +182,17 @@
 - [TensorRT (NVIDIA)](https://developer.nvidia.com/tensorrt)  
 - [ONNX Runtime](https://github.com/microsoft/onnxruntime)
 
-
+[🔼](https://github.com/totocm00#-totocm00s-github)
 ---
 
 
 ## 📊 GitHub Stats ⭐🕒🔀
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=totocm00&theme=dark&border_radius=5&locale=ko)](https://git.io/streak-stats)
+
+---
+
+🔼 [Home-up](https://github.com/totocm00#-totocm00s-github)
 
 ---
 

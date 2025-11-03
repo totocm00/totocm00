@@ -114,11 +114,6 @@
 
 ### 🧾 Record Hub
 
-<details>
-  <summary><h5> ▶️ Show Details </h5></summary>
-
-  <br>
-
 - 📊 **AI 정리**: [Notion- 공개용 AI 정리](https://www.notion.so/AI-29e9b563c76080d8b095d791a9aa0e53?source=copy_link)
 - 🐍 **Python 실습 노트**: [`it- python_study](https://github.com/totocm00/python_study)
 - 🧠 **알고리즘 풀이집**: [Git -study_algorithm](https://github.com/totocm00/study_algorithm)
@@ -127,18 +122,10 @@
 - 🤖 **협동로봇(인디7/실습 영상)**: [Notion- 협동로봇 + Indy7](https://www.notion.so/Indy7-25dfdff3e29c804ba3e7e45c06df51d5?source=copy_link)
 - 🚀 **Git 사용방법 정리**: [Notion- 공개용 Git&Github 정리 노트](https://www.notion.so/Git-GitHub-29e9b563c76080e28a22ecd347fb9a9b?source=copy_link)
 
-</details>
-
-<br>
 <br>
 <br>
 
 ### 🧭 Project Hub
-
-<details>
-  <summary><h5> ▶️ Show Details </h5></summary>
-
-  <br>
   
 - 🌱 AI Projects 1: [라벨부착, 문자인쇄 여부 확인](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link)
 - 🌿 AI Projects 2: [조립체 방향 정렬](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link)
@@ -146,7 +133,8 @@
 - 🦾 Robot : [PLC-Vision-Robot](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link)
 - 🔧 PLC : [PLC-OPC-RoboDK](https://youtu.be/OVe_I2nfBBo)  
 
-</details>
+
+<br>
   
 ***<p align="right"><a href="https://github.com/totocm00#-totocm00s-github">⬆️ Back to Top</a></p>*** 
 
@@ -154,6 +142,7 @@
 ---
 
 <br>
+
 
 <details>
   <summary><b> 📜 Certifications (Progress & Plans) </b></summary> 
@@ -179,17 +168,11 @@
 
 ### 🌿 Study - git
 
-<details>
-  <summary><h5> ▶️ Show Details </h5></summary>  
-  
-  <br>
-
 - 📘 [study_algorithm](https://github.com/totocm00/study_algorithm) : 문제풀이 기록용
 - 🐍 [python_study](https://github.com/totocm00/python_study) : 기초 문법 학습
 - 🌐 [AI_study](https://github.com/totocm00/study_AI) : AI- 트레이닝 저장소
 - 🦾 [Robot_study](https://github.com/totocm00/study_AI) : Robot-test / Nuromeka Indy7 모델
 
-</details>
 
 ***<p align="right"><a href="https://github.com/totocm00#-totocm00s-github">⬆️ Back to Top</a></p>***
 

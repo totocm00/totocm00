@@ -49,7 +49,7 @@
 
 ## ⚙️ Tech Stack
 <details>
-  <summary><h5> ▶️ Show Details </h5><sub> ( 이미지만 사용 · 링크 아님 )</sub></summary>
+  <summary><h5> ▶️ Show Details </h5><sub> ( <눌려주세요. 이미지만 사용 · 링크 아님 )</sub></summary>
 
 ### 💻 Language
 ![Python](https://img.shields.io/badge/Python-4A90E2?style=for-the-badge&logo=python&logoColor=white)

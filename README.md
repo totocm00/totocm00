@@ -114,24 +114,24 @@
 
 ### 🧾 Record Hub
 
-- 📊 **AI 정리**: [Notion- 공개용 AI 정리](https://www.notion.so/AI-29e9b563c76080d8b095d791a9aa0e53?source=copy_link)
-- 🐍 **Python 실습 노트**: [`it- python_study](https://github.com/totocm00/python_study)
+- 📊 **AI 정리**: [Notion- 공개용 AI 정리](https://www.notion.so/AI-2a514a99bcd681238727e9a804cf2c63?source=copy_link)
+- 🤖 **협동로봇**: [Notion- 협동로봇 + Indy7](https://www.notion.so/Robot-2a514a99bcd6803bb6cec2c8e4bda989?source=copy_link)
+- 🐍 **Python 실습 노트**: [Git- python_study](https://github.com/totocm00/python_study)
 - 🧠 **알고리즘 풀이집**: [Git -study_algorithm](https://github.com/totocm00/study_algorithm)
-- 📘 **공압(압축공기/실습 노트)**: [Notion- 공압 실습](https://www.notion.so/29efdff3e29c80bfa2d6eee4899b1d13?source=copy_link)
-- 👑 **Ubunto 정리**: [Notion- 공개용 Ubunto 정리 노트](https://www.notion.so/Ubunto-29e9b563c760800b904de82c06e33217?source=copy_link)
-- 🤖 **협동로봇(인디7/실습 영상)**: [Notion- 협동로봇 + Indy7](https://www.notion.so/Indy7-25dfdff3e29c804ba3e7e45c06df51d5?source=copy_link)
-- 🚀 **Git 사용방법 정리**: [Notion- 공개용 Git&Github 정리 노트](https://www.notion.so/Git-GitHub-29e9b563c76080e28a22ecd347fb9a9b?source=copy_link)
+- 📘 **공압(압축공기/실습 노트)**: [Notion- 공압 실습](https://www.notion.so/2a414a99bcd6805391eeff480f0578ce?source=copy_link)
+- 👑 **Ubunto 정리**: [Notion- 공개용 Ubunto 정리 노트](https://www.notion.so/Ubuntu-2a514a99bcd6814481c6f0c27043b743?source=copy_link)
+- 🚀 **Git 사용방법 정리**: [Notion- 공개용 Git&Github 정리 노트](https://www.notion.so/Git-GitHub-2a514a99bcd680919475d88323c00581?source=copy_link)
 
 <br>
 <br>
 
 ### 🧭 Project Hub
   
-- 🌱 AI Projects 1: [라벨부착, 문자인쇄 여부 확인](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link)
-- 🌿 AI Projects 2: [조립체 방향 정렬](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link)
-- 🌳 AI Projects 3: [PCB 납땜 검사](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link)
-- 🦾 Robot : [PLC-Vision-Robot](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link)
-- 🔧 PLC : [PLC-OPC-RoboDK](https://youtu.be/OVe_I2nfBBo)  
+- 🌱 AI Projects 1: [라벨부착, 문자인쇄 여부 확인](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link) 진행중
+- 🌿 AI Projects 2: [조립체 방향 정렬](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link) / coming soon
+- 🌳 AI Projects 3: [PCB 납땜 검사](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link) / coming soon
+- 🦾 Robot : [PLC-Vision-Robot](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link) / coming soon
+- 🔧 PLC : [PLC-OPC-RoboDK : YouTube](https://youtu.be/OVe_I2nfBBo) 
 
 
 <br>

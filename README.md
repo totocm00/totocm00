@@ -1,22 +1,27 @@
 # 🌿 totocm00's GitHub
 <hr style="border: 2px solid black;">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Nav](https://img.shields.io/badge/Quick-Nav-black?logo=github)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Nav](https://img.shields.io/badge/Quick-Nav-black?logo=github)  
 
 ⬇︎ ![Public](https://img.shields.io/badge/Public-3CB371?style=for-the-badge&logo=github&logoColor=white)
-![Private](https://img.shields.io/badge/Private-DC143C?style=for-the-badge&logo=github&logoColor=white) ⬇ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⬇︎ ![Open Resource](https://img.shields.io/badge/_Open__Resource_-1E90FF?style=for-the-badge&logo=github&logoColor=white) ⬇︎  
+![Private](https://img.shields.io/badge/Private-DC143C?style=for-the-badge&logo=github&logoColor=white) ⬇ 
 
-[![🧾 Record Hub](https://img.shields.io/badge/🧾_Record_Hub-3CB371?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-record-hub)
-[![🔍 Study: Git & Algorithm](https://img.shields.io/badge/🔍_Study:Git-DC143C?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-study-git--algorithm)
-&nbsp;&nbsp;&nbsp;&nbsp;[![🌐 AI & Vision Resources](https://img.shields.io/badge/🌐_AI_&_Vision_Resources-00BFFF?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-ai--vision-resources)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![🧾 Record Hub](https://img.shields.io/badge/🧾_Record_Hub-3CB371?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-record-hub)
 
-[![🧭 Project Hub](https://img.shields.io/badge/🧭_Project_Hub-3CB371?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-project-hub)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![🏷️ Labeling Tools](https://img.shields.io/badge/🏷️_Labeling_Tools_(Detection_Type)-FFD700?style=for-the-badge&logoColor=white)](https://github.com/totocm00#%EF%B8%8F-labeling-tools-by-detection-type)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![🔍 Study: Git & Algorithm](https://img.shields.io/badge/🔍_Study:Git-DC143C?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-study-git--algorithm)
 
-[![Notion-Profile](https://img.shields.io/badge/Notion%20Profile-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Profile-25314a99bcd680379e12caf3168d3a4c?source=copy_link)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![🧭 Project Hub](https://img.shields.io/badge/🧭_Project_Hub-3CB371?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-project-hub)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇︎ ![Open Resource](https://img.shields.io/badge/_Open__Resource_-1E90FF?style=for-the-badge&logo=github&logoColor=white)    
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![🌐 AI & Vision Resources](https://img.shields.io/badge/🌐_AI_&_Vision_Resources-00BFFF?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-ai--vision-resources)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![🏷️ Labeling Tools](https://img.shields.io/badge/🏷️_Labeling_Tools_(Detection_Type)-FFD700?style=for-the-badge&logoColor=white)](https://github.com/totocm00#%EF%B8%8F-labeling-tools-by-detection-type)  
+ 
 [![🧰 Dataset Management](https://img.shields.io/badge/🧰_Dataset_Management_&_Visualization-1E90FF?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-dataset-management--visualization-tools)  
 
- 
+[![Notion-Profile](https://img.shields.io/badge/Notion%20Profile-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Profile-25314a99bcd680379e12caf3168d3a4c?source=copy_link)
 
 ---
 

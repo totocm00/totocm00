@@ -159,8 +159,10 @@
 
 ### 🧭 Project Hub
 
+[Notion : AI Projects Introduction](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link)
+
 - 🏭 AI Projects 0: [open_vision_factory](https://github.com/totocm00/open_vision_factory) / Ongoing Factory
-- 🌱 AI Projects 1: [라벨부착, 문자인쇄 여부 확인](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link) 진행중
+- 🌱 AI Projects 1: [label_text_recognition](https://github.com/totocm00/label_text_recognition) 진행중
 - 🌿 AI Projects 2: [조립체 방향 정렬](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link) / coming soon
 - 🌳 AI Projects 3: [PCB 납땜 검사](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link) / coming soon
 - 🦾 Robot : [PLC-Vision-Robot](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link) / coming soon

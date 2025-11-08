@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Nav](https://img.shields.io/badge/Quick-Nav-black?logo=github)  
 
 ⬇︎ ![Public](https://img.shields.io/badge/Public-3CB371?style=for-the-badge&logo=github&logoColor=white)
-![Private](https://img.shields.io/badge/Private-DC143C?style=for-the-badge&logo=github&logoColor=white) ⬇ 
+![Private](https://img.shields.io/badge/Private-DC143C?style=for-the-badge&logo=github&logoColor=white) ⬇   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![🧾 Record Hub](https://img.shields.io/badge/🧾_Record_Hub-3CB371?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-record-hub)
 
@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![🧭 Project Hub](https://img.shields.io/badge/🧭_Project_Hub-3CB371?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-project-hub)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇︎ ![Open Resource](https://img.shields.io/badge/_Open__Resource_-1E90FF?style=for-the-badge&logo=github&logoColor=white)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇︎ ![Open Resource](https://img.shields.io/badge/_Open__Resource_-1E90FF?style=for-the-badge&logo=github&logoColor=white)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![🌐 AI & Vision Resources](https://img.shields.io/badge/🌐_AI_&_Vision_Resources-00BFFF?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-ai--vision-resources)
 

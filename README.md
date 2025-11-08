@@ -1,11 +1,21 @@
 # 🌿 totocm00's GitHub
 <hr style="border: 2px solid black;">
 
-**Quick Nav:**  
-⚙️ [Tech Stack](https://github.com/totocm00#%EF%B8%8F-tech-stack) · 🧾 [Record Hub](https://github.com/totocm00#-record-hub) · 🔍 [Study - git](https://github.com/totocm00#-study---git) · 🧭 [Project Hub](https://github.com/totocm00#-project-hub)  
-🌐 [AI&Vision Resoures](https://github.com/totocm00#-ai--vision-resources)  
-🏷️ [Labeling Tools by Detection Type](https://github.com/totocm00#%EF%B8%8F-labeling-tools-by-detection-type)   
-🧰 [Dataset Management & Visualization Tools](https://github.com/totocm00#-dataset-management--visualization-tools) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Nav](https://img.shields.io/badge/Quick-Nav-black?logo=github)  
+
+⬇︎ [![Public](https://img.shields.io/badge/Public-3CB371?style=for-the-badge&logo=github&logoColor=white)]()
+[![Private](https://img.shields.io/badge/Private-DC143C?style=for-the-badge&logo=github&logoColor=white)]() ⬇ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⬇︎ [![Open Resource](https://img.shields.io/badge/_Open__Resource_-1E90FF?style=for-the-badge&logo=github&logoColor=white)]() ⬇︎  
+
+[![🧾 Record Hub](https://img.shields.io/badge/🧾_Record_Hub-3CB371?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-record-hub)
+[![🔍 Study: Git & Algorithm](https://img.shields.io/badge/🔍_Study:Git-DC143C?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-study-git--algorithm)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![🌐 AI & Vision Resources](https://img.shields.io/badge/🌐_AI_&_Vision_Resources-00BFFF?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-ai--vision-resources)
+[![🏷️ Labeling Tools](https://img.shields.io/badge/🏷️_Labeling_Tools_(Detection_Type)-FFD700?style=for-the-badge&logoColor=white)](https://github.com/totocm00#%EF%B8%8F-labeling-tools-by-detection-type)
+
+[![🧭 Project Hub](https://img.shields.io/badge/🧭_Project_Hub-3CB371?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-project-hub)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![🧰 Dataset Management](https://img.shields.io/badge/🧰_Dataset_Management_&_Visualization-1E90FF?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-dataset-management--visualization-tools)  
+
+[![Notion-Profile](https://img.shields.io/badge/Notion%20Profile-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Profile-25314a99bcd680379e12caf3168d3a4c?source=copy_link)
+ 
 
 ---
 
@@ -33,7 +43,7 @@
 
 ## ⚙️ Tech Stack
 <details>
-  <summary><h5> ▶️ Show Details </h5></summary>
+  <summary><h5> ▶️ Show Details </h5><sub> ( 이미지만 사용 · 링크 아님 )</sub></summary>
 
 ### 💻 Language
 ![Python](https://img.shields.io/badge/Python-4A90E2?style=for-the-badge&logo=python&logoColor=white)
@@ -112,21 +122,38 @@
 <br>
 <br>
 
+
 ### 🧾 Record Hub
 
-- 📊 **AI 정리**: [Notion- 공개용 AI 정리](https://www.notion.so/AI-2a514a99bcd681238727e9a804cf2c63?source=copy_link)
-- 🤖 **협동로봇**: [Notion- 협동로봇 + Indy7](https://www.notion.so/Robot-2a514a99bcd6803bb6cec2c8e4bda989?source=copy_link)
-- 🐍 **Python 실습 노트**: [Git- python_study](https://github.com/totocm00/python_study)
-- 🧠 **알고리즘 풀이집**: [Git -study_algorithm](https://github.com/totocm00/study_algorithm)
-- 📘 **공압(압축공기/실습 노트)**: [Notion- 공압 실습](https://www.notion.so/2a414a99bcd6805391eeff480f0578ce?source=copy_link)
-- 👑 **Ubunto 정리**: [Notion- 공개용 Ubunto 정리 노트](https://www.notion.so/Ubuntu-2a514a99bcd6814481c6f0c27043b743?source=copy_link)
-- 🚀 **Git 사용방법 정리**: [Notion- 공개용 Git&Github 정리 노트](https://www.notion.so/Git-GitHub-2a514a99bcd680919475d88323c00581?source=copy_link)
+- 📊 **AI 정리** : [![AI 정리](https://img.shields.io/badge/AI_Notes-6C63FF?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/AI-2a514a99bcd681238727e9a804cf2c63?source=copy_link)  
+  
+- 🤖 **협동로봇** : [![협동로봇](https://img.shields.io/badge/Robot_Indy7-007ACC?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Robot-2a514a99bcd6803bb6cec2c8e4bda989?source=copy_link)  / coming soon   
+
+- 👑 **Ubunto 정리** : [![Ubuntu](https://img.shields.io/badge/Ubuntu_Notes-E95420?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Ubuntu-2a514a99bcd6814481c6f0c27043b743?source=copy_link)  
+
+- 🚀 **Git 사용방법 정리** : [![GitGuide](https://img.shields.io/badge/GitHub_Guide-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Git-GitHub-2a514a99bcd680919475d88323c00581?source=copy_link)  / coming soon  
+
+- 🐍 **Python 실습 노트** : [![Python](https://img.shields.io/badge/Python_Study-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/totocm00/python_study)  
+
+- 🧮 **알고리즘 풀이집** : [![Algorithm](https://img.shields.io/badge/Algorithm_Study-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/totocm00/study_algorithm)  
+
+- 📘 **공압(압축공기/실습 노트)** : [![Pneumatics](https://img.shields.io/badge/Pneumatics_Lab-0099CC?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2a414a99bcd6805391eeff480f0578ce?source=copy_link)  
+
+### 🧾 Record Hub 한방 확인
+
+[![Notion-Profile](https://img.shields.io/badge/Notion%20Profile-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Profile-25314a99bcd680379e12caf3168d3a4c?source=copy_link)
+
+
+
+
+
 
 <br>
 <br>
 
 ### 🧭 Project Hub
-  
+
+- 🏭 AI Projects 0: [open_vision_factory](https://github.com/totocm00/open_vision_factory) / Ongoing Factory
 - 🌱 AI Projects 1: [라벨부착, 문자인쇄 여부 확인](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link) 진행중
 - 🌿 AI Projects 2: [조립체 방향 정렬](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link) / coming soon
 - 🌳 AI Projects 3: [PCB 납땜 검사](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link) / coming soon

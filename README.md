@@ -1,7 +1,7 @@
 # 🌿 totocm00's GitHub
 <hr style="border: 2px solid black;">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Nav](https://img.shields.io/badge/Quick-Nav-black?logo=github)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Nav](https://img.shields.io/badge/Quick-PcNav-black?logo=github)  
 
 ⬇︎ ![Public](https://img.shields.io/badge/Public-3CB371?style=for-the-badge&logo=github&logoColor=white)
 ![Private](https://img.shields.io/badge/Private-DC143C?style=for-the-badge&logo=github&logoColor=white) ⬇   

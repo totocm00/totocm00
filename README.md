@@ -133,11 +133,11 @@
 
 - 📊 **AI 정리** : [![AI 정리](https://img.shields.io/badge/AI_Notes-6C63FF?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/AI-2a514a99bcd681238727e9a804cf2c63?source=copy_link)  
   
-- 🤖 **협동로봇** : [![협동로봇](https://img.shields.io/badge/Robot_Indy7-007ACC?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Robot-2a514a99bcd6803bb6cec2c8e4bda989?source=copy_link)  / coming soon   
+- 🤖 **협동로봇** : [![협동로봇](https://img.shields.io/badge/Robot_Indy7-007ACC?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Robot-2a514a99bcd6803bb6cec2c8e4bda989?source=copy_link)     
 
-- 👑 **Ubunto 정리** : [![Ubuntu](https://img.shields.io/badge/Ubuntu_Notes-E95420?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Ubuntu-2a514a99bcd6814481c6f0c27043b743?source=copy_link)  
+- 👑 **Ubunto 정리** : [![Ubuntu](https://img.shields.io/badge/Ubuntu_Notes-E95420?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Ubuntu-2a514a99bcd6814481c6f0c27043b743?source=copy_link)   
 
-- 🚀 **Git 사용방법 정리** : [![GitGuide](https://img.shields.io/badge/GitHub_Guide-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Git-GitHub-2a514a99bcd680919475d88323c00581?source=copy_link)  / coming soon  
+- 🚀 **Git 사용방법 정리** : [![GitGuide](https://img.shields.io/badge/GitHub_Guide-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Git-GitHub-2a514a99bcd680919475d88323c00581?source=copy_link)    
 
 - 🐍 **Python 실습 노트** : [![Python](https://img.shields.io/badge/Python_Study-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/totocm00/python_study)  
 

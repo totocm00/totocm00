@@ -230,23 +230,9 @@
 
 ### 🧾 Record Hub
 
-- 📊 **AI 정리** : [![AI 정리](https://img.shields.io/badge/AI_Notes-6C63FF?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/AI-2a514a99bcd681238727e9a804cf2c63?source=copy_link)  
+⬇ 📊 **AI** 🤖 **ROBOT** 👑 **Ubuntu** 🚀 **Git&GitHub** ⬇
   
-- 🤖 **협동로봇** : [![협동로봇](https://img.shields.io/badge/Robot_Indy7-007ACC?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Robot-2a514a99bcd6803bb6cec2c8e4bda989?source=copy_link)     
-
-- 👑 **Ubunto 정리** : [![Ubuntu](https://img.shields.io/badge/Ubuntu_Notes-E95420?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Ubuntu-2a514a99bcd6814481c6f0c27043b743?source=copy_link)   
-
-- 🚀 **Git 사용방법 정리** : [![GitGuide](https://img.shields.io/badge/GitHub_Guide-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Git-GitHub-2a514a99bcd680919475d88323c00581?source=copy_link)    
-
-- 🐍 **Python 실습 노트** : [![Python](https://img.shields.io/badge/Python_Study-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/totocm00/python_study)  
-
-- 🧮 **알고리즘 풀이집** : [![Algorithm](https://img.shields.io/badge/Algorithm_Study-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/totocm00/study_algorithm)  
-
-- 📘 **공압(압축공기/실습 노트)** : [![Pneumatics](https://img.shields.io/badge/Pneumatics_Lab-0099CC?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2a414a99bcd6805391eeff480f0578ce?source=copy_link)  
-
-### 🧾 Record Hub 한방 확인
-
-[![Notion-Profile](https://img.shields.io/badge/Notion%20Profile-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Profile-25314a99bcd680379e12caf3168d3a4c?source=copy_link)
+[![Notion-Imformation](https://img.shields.io/badge/Notion%20Imformation-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/information-25314a99bcd680379e12caf3168d3a4c?source=copy_link)
 
 
 
@@ -258,14 +244,13 @@
 
 ### 🧭 Project Hub
 
-[Notion : AI Projects Introduction](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link)
+[![Notion-Project Link](https://img.shields.io/badge/Notion%20Project%20Link-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Project-Link-2d014a99bcd680e89b53e2b20f4492cf?source=copy_link)
 
-- 🏭 AI Projects 0: [open_vision_factory](https://github.com/totocm00/open_vision_factory) / Ongoing Factory
-- 🌱 AI Projects 1: [label_text_recognition](https://github.com/totocm00/label_text_recognition) 진행중
-- 🌿 AI Projects 2: [조립체 방향 정렬](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link) / coming soon
-- 🌳 AI Projects 3: [PCB 납땜 검사](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link) / coming soon
-- 🦾 Robot : [PLC-Vision-Robot](https://www.notion.so/Home-29d9eb4f232780c6be2acbe1b4432c7e?source=copy_link) / coming soon
-- 🔧 PLC : [PLC-OPC-RoboDK : YouTube](https://youtu.be/OVe_I2nfBBo) 
+[![Notion-OVF](https://img.shields.io/badge/Notion%20OVF%20Structure%20Link-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/OVF-OpenVisionFactory-2ad14a99bcd6810aa85bed91c8a422be?source=copy_link)
+
+
+
+
 
 
 <br>
@@ -275,26 +260,7 @@
   
 ---
 
-<br>
-<br>
   
----
-
-<br>
-
-### 🌿 Study - git
-
-- 📘 [study_algorithm](https://github.com/totocm00/study_algorithm) : 문제풀이 기록용
-- 🐍 [python_study](https://github.com/totocm00/python_study) : 기초 문법 학습
-- 🌐 [AI_study](https://github.com/totocm00/study_AI) : AI- 트레이닝 저장소
-- 🦾 [Robot_study](https://github.com/totocm00/study_AI) : Robot-test / Nuromeka Indy7 모델
-
-
-***<p align="right"><a href="https://github.com/totocm00#-totocm00s-github">⬆️ Back to Top</a></p>***
-
-  
----
----
 
 <br>
 
@@ -530,11 +496,6 @@
 
 ---
 
-<br>
-<br>
-
-## 🌼 Contact
-> 궁금한 점이 있다면 언제든지 DM 주세요!  
 
 <br>
 <br>

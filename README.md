@@ -21,7 +21,7 @@
  
 [![🧰 Dataset Management](https://img.shields.io/badge/🧰_Dataset_Management_&_Visualization-1E90FF?style=for-the-badge&logoColor=white)](https://github.com/totocm00#-dataset-management--visualization-tools)  
 
-[![Notion-Profile](https://img.shields.io/badge/Notion%20Profile-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Profile-25314a99bcd680379e12caf3168d3a4c?source=copy_link)
+[![Notion-Imformation](https://img.shields.io/badge/Notion%20Imformation-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/information-25314a99bcd680379e12caf3168d3a4c?source=copy_link)
 
 ---
 
